@@ -1,11 +1,13 @@
 about:
-  description: A powerful CLI tool that puts log aggregation at your fingertips.
+  description:
+  |
+    A powerful CLI tool that puts log aggregation at your fingertips.
   license: GPL-3.0
   homepage: 
   head: dc1663e
   archived: false
   latestVersion: 0.6.0
-  collectedAt: 2026-09-03T05:12:39Z
+  collectedAt: 2026-09-03T22:38:09Z
 timeline:
   created: 2020-11-10
   lastCommit: 2026-08-22
@@ -21,7 +23,7 @@ popularity:
 language:
   Rust: 300020
   Shell: 1602
-totalLine: 301622
+totalBytes: 301622
 recent:
   last30d:
     since: 2026-08-04
