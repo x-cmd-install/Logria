@@ -4,7 +4,7 @@
 
 A powerful CLI tool that puts log aggregation at your fingertips.
 
-![Logria](https://repo.x-cmd.io/Logria.svg)
+![Logria](https://repo.x-cmd.io/Logria.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,17 @@ x install Logria
 - **最新版本**: `0.6.0` (2026-08-22)
 - **最近提交**: 2026-08-22
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-08-22T02:59:20Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [logria-aarch64-apple-darwin](https://github.com/ReagentX/Logria/releases/download/0.6.0/logria-aarch64-apple-darwin) | 2.2 MiB | `native/darwin/arm64` |
+| [logria-aarch64-apple-darwin.tar.gz](https://github.com/ReagentX/Logria/releases/download/0.6.0/logria-aarch64-apple-darwin.tar.gz) | 916.8 KiB | `native/darwin/arm64` |
+| [logria-x86_64-apple-darwin](https://github.com/ReagentX/Logria/releases/download/0.6.0/logria-x86_64-apple-darwin) | 2.4 MiB | `native/darwin/x64` |
+| [logria-x86_64-apple-darwin.tar.gz](https://github.com/ReagentX/Logria/releases/download/0.6.0/logria-x86_64-apple-darwin.tar.gz) | 1008.1 KiB | `native/darwin/x64` |
+| [logria-x86_64-pc-windows-gnu.exe](https://github.com/ReagentX/Logria/releases/download/0.6.0/logria-x86_64-pc-windows-gnu.exe) | 2.6 MiB | `native/win/x64` |
+| [logria-x86_64-pc-windows-gnu.tar.gz](https://github.com/ReagentX/Logria/releases/download/0.6.0/logria-x86_64-pc-windows-gnu.tar.gz) | 1.0 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +71,4 @@ Logria 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:43:21Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:10:53Z._
