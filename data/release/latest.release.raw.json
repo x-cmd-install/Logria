@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1032322,
       "digest": "sha256:27160397ef7ad88a62aba00cef88c3ef53063f9f062f0bbd26bc4ca57e2b8517",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-22T03:03:12Z",
       "updated_at": "2026-08-22T03:03:13Z",
       "browser_download_url": "https://github.com/ReagentX/Logria/releases/download/0.6.0/logria-x86_64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2681150,
       "digest": "sha256:26be9eae9fafde466a1a94aad9bdfda8d8885363e7dfa2d59180eb088cd8d78e",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-22T03:03:07Z",
       "updated_at": "2026-08-22T03:03:09Z",
       "browser_download_url": "https://github.com/ReagentX/Logria/releases/download/0.6.0/logria-x86_64-pc-windows-gnu.exe"
